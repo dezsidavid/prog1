@@ -1,4 +1,4 @@
-/* g++ drill15_2.cpp -o main*/
+/* g++ drill15_2.cpp -o main */
 
 #include "std_lib_facilities.h"
 
